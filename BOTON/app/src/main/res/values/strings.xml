@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BOTON</string>
+    <string name="BotonSiguiente">Siguiente</string>
+    <string name="BotonAnterior">Anterior</string>
+    <string name="etNombre1">Nombre</string>
+    <string name="etNombre2">Nombre</string>
+</resources>
